@@ -7,4 +7,4 @@ A modern, fully responsive, and corporate SaaS landing page built with {React}. 
 - Styling: CSS3 (Custom Grid, Flexbox, Keyframes)
 - Version Control: Git & GitHub
   
-live demo: https://samaralmadhoun.github.io/FlowPilot-/
+live demo: [https://samaralmadhoun.github.io/FlowPilot-/](https://jade-sprite-20df40.netlify.app/)
